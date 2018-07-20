@@ -6,7 +6,7 @@
   - [Purpose](#purpose)
 - [SDK Integration Steps](#sdk-integration-steps)
   - [CocoaPods](#cocoapods)
-  - [Project settings](#project-settings)
+  - [Update Project Settings](#update-project-settings)
   - [Initialize and Run Vodafone Callertunes SDK](#initialize-and-run-vodafone-callertunes-sdk)
 - [Copy Right](#copy-right)
 
@@ -46,7 +46,7 @@ end
 $ pod install
 ```
 
-  ### Project settings
+  ### Update Project Settings
 
   Post installing Vodafone Callertunes SDK to your project, please update the project settings by following below steps
 
