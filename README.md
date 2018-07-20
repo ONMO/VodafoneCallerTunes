@@ -1,4 +1,6 @@
-# VodafoneCallerTunes
+![Alamofire: Elegant Networking in Swift](http://t0.gstatic.com/images?q=tbn:ANd9GcQ7a6C5baa2f_3KA2zVpouH29tMGgRfcCn1PGuubySgbFbKuMxg)
+
+# Vodafone Caller Tunes SDK
 
 
 
