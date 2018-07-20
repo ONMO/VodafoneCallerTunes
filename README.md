@@ -8,7 +8,7 @@
   - [CocoaPods](#cocoapods)
   - [Update Project Settings](#update-project-settings)
   - [Initialize and Run Vodafone Callertunes SDK](#initialize-and-run-vodafone-callertunes-sdk)
-- [Copy Right](#copy-right)
+- [Copyright](#copyright)
 
 ## Introduction
 
@@ -70,6 +70,6 @@ VodafoneCallerTunesConnector.initialize(withAuthenticationKey: <key>, forPhoneNu
 }
 ```
 
-## Copy Right
+## Copyright
 
 ### ©2018 OnMobile Global Limited All Rights Reserved.
