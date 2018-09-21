@@ -65,9 +65,7 @@ $ pod install
 ```swift
 import VodafoneCallerTunesSDK
 
-VodafoneCallerTunesConnector.initialize(withAuthenticationKey: <key>, forPhoneNumber: <phoneNumber>, controller: self, animated: true) { (error) in
-// Write error handling code here
-}
+VodafoneCallerTunesConnector.initialize(withAuthenticationKey: <key>, forPhoneNumber: <phoneNumber>, controller: self, animated: true)
 ```
 
 ## Copyright
